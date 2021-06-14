@@ -1,0 +1,28 @@
+body {
+  background-color: #f6b8b8;
+}
+
+h1 {
+  color: #ac66cc;
+}
+h3 {
+  color: #ac66cc;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #ffed99;
+  border-width: 10px;
+  width: 7%;
+}
+
+h1:hover {
+  color: #3b14a7;
+}
+
+/* * * * * * * * * * CLASS SELECTORS * * * * * * * * * * * */
+
+.circular {
+  border-radius: 100%;
+}
